@@ -1,2 +1,2 @@
 # jade_bs
-jade Bootstrap wireframe examples
+jade with Bootstrap and Bootswatch wireframe examples
