@@ -1,2 +1,2 @@
-# jade_wireframes
+# jade_wf
 jade wireframe examples
