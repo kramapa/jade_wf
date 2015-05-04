@@ -1,4 +1,4 @@
- Example taken from the DevTips youtube channel
- ==============================================
+Example taken from the DevTips youtube channel
 
- Bootstrap Grid - CSS Grids Series
+
+Bootstrap Grid - CSS Grids Series
