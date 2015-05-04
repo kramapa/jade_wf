@@ -9,5 +9,5 @@ Drupal
 -----
 jade with [Bootstrap](http://getbootstrap.com/) and [Bootswatch](http://bootswatch.com) wireframe example.
 
-mybootstrap is an extract from a Drupal Bootstrap subtheme.
+The mybootstrap folder (see tree.txt) comes from a Drupal site.
 This static site is using the Drupal Bootstrap subtheme structure.
